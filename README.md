@@ -1,4 +1,4 @@
-# oxCM Contour Method Solver
+# exCaking for Polycrystal Diffraction
 ![logo](https://raw.githubusercontent.com/fatihxuzun/exCaking/main/exCaking_logo.png)
 
 ## Dependencies
