@@ -1,5 +1,5 @@
 # oxCM Contour Method Solver
-![logo](https://raw.githubusercontent.com/fffatttihhh/exCaking/main/exCaking_logo.png)
+![logo](https://raw.githubusercontent.com/fatihxuzun/exCaking/main/exCaking_logo.png)
 
 ## Dependencies
 * MATLAB R2023b
