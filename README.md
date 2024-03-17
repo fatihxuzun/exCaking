@@ -35,7 +35,7 @@ Follow the instructions from command window.
 ## Usage
 The guide for analysing training data:
 
-[a link](https://github.com/fatihxuzun/exCaking/main/tutorial.pdf)
+https://github.com/fatihxuzun/exCaking/blob/main/tutorial.pdf
 
 ## Outputs
 /myProjectFolder/dStore$
