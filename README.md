@@ -2,7 +2,7 @@
 ![logo](https://raw.githubusercontent.com/fatihxuzun/exCaking/main/exCaking_logo.png)
 
 ## Dependencies
-* MATLAB R2023b
+* MATLAB R2022a
 
 ## Installation
 Download 'calibration.p', 'reference.p' and 'analyse.p' to your project folder.
@@ -39,6 +39,19 @@ https://github.com/fatihxuzun/exCaking/blob/main/tutorial.pdf
 
 ## Outputs
 /myProjectFolder/dStore$
+
+* circle_calibration.mat
+* circle_calibration_selected_points.png
+* circle_calibration_fit_line.png
+* circle_calibration_fit_peaks_start.png
+* circle_calibration_fit_peaks_end.png
+
+* multipeak_reference.mat
+* multipeak_reference.png
+* multipeak_reference_peaks_start.png
+* multipeak_reference_peaks_end.png
+
+* myDataFolder_exCaking.csv
 
 ## Scientific Usage
 Please cite:
