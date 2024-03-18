@@ -12,7 +12,7 @@ Download 'calibration.p', 'reference.p' and 'analyse.p' to your project folder.
 ## exCaking Command Line
 calibration(peak_range, set_brightness, sub_pixel, file_format)
 
-* peak_range - Pixelwise ring peak fitting range in calibration file
+* peak_range - Pixelwise ring peak fitting range of calibration file
 * set_brightness - Brightness of calibration file ranging from 0.0 to 1.0
 * sub_pixel - Step size for sub-pixel level analysis of calibration file
 * file_format - File format of calibration file
