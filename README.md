@@ -45,12 +45,12 @@ https://github.com/fatihxuzun/exCaking/blob/main/tutorial.pdf
 * circle_calibration_fit_line.png
 * circle_calibration_fit_peaks_start.png
 * circle_calibration_fit_peaks_end.png
-* 
+ 
 * multipeak_reference.mat
 * multipeak_reference.png
 * multipeak_reference_peaks_start.png
 * multipeak_reference_peaks_end.png
-* 
+ 
 * myDataFolder_exCaking.csv
 
 ## Scientific Usage
