@@ -19,10 +19,10 @@ calibration(peak_range, set_brightness, sub_pixel, file_format)
 
 reference(peak_range, set_brightness, sub_pixel, file_format)
 
-* peak_range - Pixelwise ring peak fitting range of reference file
+* peak_range - Pixelwise ring peak fitting range of polycrystal diffraction data
 * set_brightness - Brightness of reference file ranging from 0.0 to 1.0
-* sub_pixel - Step size for sub-pixel level analysis of reference file
-* file_format - File format of reference file
+* sub_pixel - Step size for sub-pixel level analysis of polycrystal diffraction data
+* file_format - File format of polycrystal diffraction data
 
 analyse(n_of_workers, ang_step_size)
 
@@ -45,12 +45,12 @@ https://github.com/fatihxuzun/exCaking/blob/main/tutorial.pdf
 * circle_calibration_fit_line.png
 * circle_calibration_fit_peaks_start.png
 * circle_calibration_fit_peaks_end.png
-
+* 
 * multipeak_reference.mat
 * multipeak_reference.png
 * multipeak_reference_peaks_start.png
 * multipeak_reference_peaks_end.png
-
+* 
 * myDataFolder_exCaking.csv
 
 ## Scientific Usage
