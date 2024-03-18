@@ -33,7 +33,7 @@ analyse(n_of_workers, ang_step_size)
 Follow the instructions from command window.
 
 ## Usage
-The guide for analysing training data:
+The guide for analysing polycrystal diffraction data:
 
 https://github.com/fatihxuzun/exCaking/blob/main/tutorial.pdf
 
