@@ -55,5 +55,3 @@ https://github.com/fatihxuzun/exCaking/blob/main/tutorial.pdf
 
 ## Scientific Usage
 Please cite:
-
-Uzun, F.; Daisenberger, D.; Liogas, K.; Wang, Z.I.; Chen, J.; Besnard, C.; Korsunsky, A.M. Extended Caking Method for Strain Analysis of Polycrystalline Diffraction Debye–Scherrer Rings. Crystals 2024, 14, 716. https://doi.org/10.3390/cryst14080716
