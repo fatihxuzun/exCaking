@@ -54,4 +54,6 @@ https://github.com/fatihxuzun/exCaking/blob/main/tutorial.pdf
 * myDataFolder_exCaking.csv
 
 ## Scientific Usage
-Please cite:
+The exCaking console application was developed to improve strain analysis in polycrystalline materials by offering a more accurate approach to processing diffraction data from Debye-Scherrer rings, enhancing the precision of elastic strain measurements. Please cite:
+
+Uzun, F.; Daisenberger, D.; Liogas, K.; Wang, Z.I.; Chen, J.; Besnard, C.; Korsunsky, A.M. Extended Caking Method for Strain Analysis of Polycrystalline Diffraction Debye–Scherrer Rings. Crystals 2024, 14, 716. https://doi.org/10.3390/cryst14080716
