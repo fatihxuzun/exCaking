@@ -60,3 +60,5 @@ Uzun, F.; Daisenberger, D.; Liogas, K.; Wang, Z.I.; Chen, J.; Besnard, C.; Korsu
 
 ## Publications
 Uzun, F., Slim, M.F., Basoalto, H. et al. Application of strain tomography and contour method to residual stress analysis in additively manufactured CM247LC superalloy parts. Prog Addit Manuf (2025). https://doi.org/10.1007/s40964-025-01116-2
+
+Uzun, F., Besnard, C., Vaughan, G. et al. A Critical Evaluation of Diffraction Strain Tomography and Contour Method by Assessing Residual Elastic Strains and Quench-Induced Cracking in a Carbon Steel Bar. Met. Mater. Int. (2025). https://doi.org/10.1007/s12540-025-01976-x
