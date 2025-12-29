@@ -59,7 +59,7 @@ The exCaking console application was developed to improve strain analysis in pol
 Uzun, F., Daisenberger, D., Liogas, K., Wang, Z.I., Chen, J., Besnard, C., Korsunsky, A.M. Extended Caking Method for Strain Analysis of Polycrystalline Diffraction Debye–Scherrer Rings. Crystals (2024). https://doi.org/10.3390/cryst14080716
 
 ## Publications
-Uzun, F. and Korsunsky, A.M. Eigenstrain Tomography: Full-Field Residual Stress Reconstruction via Polycrystalline Diffraction Projections. Acta Materialia (2025). https://doi.org/10.1016/j.actamat.2025.121872
+Uzun, F., Korsunsky, A.M. Eigenstrain Tomography: Full-Field Residual Stress Reconstruction via Polycrystalline Diffraction Projections. Acta Materialia (2025). https://doi.org/10.1016/j.actamat.2025.121872
 
 Uzun, F., Slim, M.F., Basoalto, H. et al. Application of strain tomography and contour method to residual stress analysis in additively manufactured CM247LC superalloy parts. Prog Addit Manuf (2025). https://doi.org/10.1007/s40964-025-01116-2
 
