@@ -56,9 +56,11 @@ https://github.com/fatihxuzun/exCaking/blob/main/tutorial.pdf
 ## Scientific Usage
 The exCaking console application was developed to improve strain analysis in polycrystalline materials by offering a more accurate approach to processing diffraction data from Debye-Scherrer rings, enhancing the precision of elastic strain measurements. Please cite:
 
-Uzun, F.; Daisenberger, D.; Liogas, K.; Wang, Z.I.; Chen, J.; Besnard, C.; Korsunsky, A.M. Extended Caking Method for Strain Analysis of Polycrystalline Diffraction Debye–Scherrer Rings. Crystals (2024). https://doi.org/10.3390/cryst14080716
+Uzun, F., Daisenberger, D., Liogas, K., Wang, Z.I., Chen, J., Besnard, C., Korsunsky, A.M. Extended Caking Method for Strain Analysis of Polycrystalline Diffraction Debye–Scherrer Rings. Crystals (2024). https://doi.org/10.3390/cryst14080716
 
 ## Publications
+Uzun, F. and Korsunsky, A.M. Eigenstrain Tomography: Full-Field Residual Stress Reconstruction via Polycrystalline Diffraction Projections. Acta Materialia (2025). https://doi.org/10.1016/j.actamat.2025.121872
+
 Uzun, F., Slim, M.F., Basoalto, H. et al. Application of strain tomography and contour method to residual stress analysis in additively manufactured CM247LC superalloy parts. Prog Addit Manuf (2025). https://doi.org/10.1007/s40964-025-01116-2
 
 Uzun, F., Besnard, C., Vaughan, G. et al. A Critical Evaluation of Diffraction Strain Tomography and Contour Method by Assessing Residual Elastic Strains and Quench-Induced Cracking in a Carbon Steel Bar. Met. Mater. Int. (2025). https://doi.org/10.1007/s12540-025-01976-x
